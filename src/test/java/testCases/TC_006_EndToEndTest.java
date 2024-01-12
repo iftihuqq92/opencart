@@ -111,13 +111,13 @@ public class TC_006_EndToEndTest extends BaseClass {
 	Thread.sleep(1000);
 	ch.setaddress2("address2");
 	Thread.sleep(1000);
-	ch.setcity("Delhi");
+	ch.setcity("Queens");
 	Thread.sleep(1000);
 	ch.setpin("500070");
 	Thread.sleep(1000);
-	ch.setCountry("India");
+	ch.setCountry("USA");
 	Thread.sleep(1000);
-	ch.setState("Delhi");
+	ch.setState("New York");
 	Thread.sleep(1000);
 	ch.clickOnContinueAfterBillingAddress();
 	Thread.sleep(1000);

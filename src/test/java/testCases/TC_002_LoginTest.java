@@ -24,7 +24,7 @@ public class TC_002_LoginTest extends BaseClass
 		
 		hp.clickMyAccount();
 		logger.info("clicked on my account link");
-		hp.clickLogin(); //login link under MyAccount
+		hp.clickLogin(); 
 		logger.info("clicked on login link");
 		
 		//Login Page
