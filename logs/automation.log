@@ -1,0 +1,38 @@
+04:59:59.368 [main] DEBUG org.testng.TestNG - suiteXmlPath: "/Users/aws/projects/jaza-eclips/opencart/mastersuite.xml"
+04:59:59.711 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/aws/projects/jaza-eclips/opencart/mastersuite.xml
+
+05:00:11.636 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** Starting TC_001_AccountRegistrationTest *****
+05:00:12.113 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on my account link
+05:00:13.936 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on registration link
+05:00:13.940 [main] INFO  testCases.TC_001_AccountRegistrationTest - Entering customer information
+05:00:15.879 [main] ERROR testCases.TC_001_AccountRegistrationTest - Test failed
+05:03:57.948 [main] DEBUG org.testng.TestNG - suiteXmlPath: "/Users/aws/projects/jaza-eclips/opencart/mastersuite.xml"
+05:04:02.838 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** Starting TC_001_AccountRegistrationTest *****
+05:04:02.935 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on my account link
+05:04:03.675 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on registration link
+05:04:03.676 [main] INFO  testCases.TC_001_AccountRegistrationTest - Entering customer information
+05:04:03.968 [main] ERROR testCases.TC_001_AccountRegistrationTest - test failed..
+05:04:53.566 [main] DEBUG org.testng.TestNG - suiteXmlPath: "/Users/aws/projects/jaza-eclips/opencart/mastersuite.xml"
+05:04:57.882 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** Starting TC_001_AccountRegistrationTest *****
+05:04:57.947 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on my account link
+05:04:58.937 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on registration link
+05:04:58.939 [main] INFO  testCases.TC_001_AccountRegistrationTest - Entering customer information
+05:05:00.282 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message..
+05:05:00.284 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** Finished TC_001_AccountRegistrationTest *****
+05:05:45.090 [main] DEBUG org.testng.TestNG - suiteXmlPath: "/Users/aws/projects/jaza-eclips/opencart/mastersuite.xml"
+05:05:49.549 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** Starting TC_001_AccountRegistrationTest *****
+05:05:49.606 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on my account link
+05:05:50.321 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on registration link
+05:05:50.322 [main] INFO  testCases.TC_001_AccountRegistrationTest - Entering customer information
+05:05:51.665 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message..
+05:05:51.666 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** Finished TC_001_AccountRegistrationTest *****
+05:06:51.023 [main] DEBUG org.testng.TestNG - suiteXmlPath: "/Users/aws/projects/jaza-eclips/opencart/mastersuite.xml"
+05:06:59.049 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** Starting TC_001_AccountRegistrationTest *****
+05:06:59.103 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on my account link
+05:07:00.621 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on registration link
+05:07:00.622 [main] INFO  testCases.TC_001_AccountRegistrationTest - Entering customer information
+05:07:01.685 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message..
+05:07:01.688 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** Finished TC_001_AccountRegistrationTest *****
+05:08:42.585 [main] DEBUG org.testng.TestNG - suiteXmlPath: "/Users/aws/projects/jaza-eclips/opencart/mastersuite.xml"
+05:12:51.319 [main] DEBUG org.testng.TestNG - suiteXmlPath: "/Users/aws/projects/jaza-eclips/opencart/mastersuite.xml"
