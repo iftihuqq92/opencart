@@ -29,7 +29,7 @@ public class TC_001_AccountRegistrationTest extends BaseClass
 		regpage.setLastName(randomeString().toUpperCase());
 		
 		regpage.setEmail(randomeString()+randomeNumber()+"@gmail.com");
-		regpage.setTelephone(randomeNumber());
+		//regpage.setTelephone(randomeNumber());
 		
 		
 		String password=randomAlphaNumeric();
