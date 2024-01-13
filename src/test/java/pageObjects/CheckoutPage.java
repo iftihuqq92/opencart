@@ -149,7 +149,7 @@ public class CheckoutPage extends BasePage{
 	
 	public String  getTotalPriceBeforeConfOrder()
 	{
-		return lblTotalPrice.getText(); //$207.00
+		return lblTotalPrice.getText(); 
 		
 	}
 	

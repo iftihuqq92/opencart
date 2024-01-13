@@ -80,7 +80,7 @@ public class ExcelUtility {
 	public void setCellData(String sheetName,int rownum,int colnum,String data) throws IOException
 	{
 		File xlfile=new File(path);
-		if(!xlfile.exists())    // If file not exists then create new file
+		if(!xlfile.exists())    
 		{
 		workbook=new XSSFWorkbook();
 		fo=new FileOutputStream(path);
@@ -90,11 +90,11 @@ public class ExcelUtility {
 		fi=new FileInputStream(path);
 		workbook=new XSSFWorkbook(fi);
 			
-		if(workbook.getSheetIndex(sheetName)==-1) // If sheet not exists then create new Sheet
+		if(workbook.getSheetIndex(sheetName)==-1) 
 			workbook.createSheet(sheetName);
 		sheet=workbook.getSheet(sheetName);
 					
-		if(sheet.getRow(rownum)==null)   // If row not exists then create new Row
+		if(sheet.getRow(rownum)==null)   
 				sheet.createRow(rownum);
 		row=sheet.getRow(rownum);
 		
