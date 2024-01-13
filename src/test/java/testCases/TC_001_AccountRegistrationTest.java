@@ -34,7 +34,7 @@ public class TC_001_AccountRegistrationTest extends BaseClass
 		
 		String password=randomAlphaNumeric();
 		regpage.setPassword(password);
-		regpage.setConfirmPassword(password);
+		//regpage.setConfirmPassword(password);
 		
 		regpage.setPrivacyPolicy();
 		

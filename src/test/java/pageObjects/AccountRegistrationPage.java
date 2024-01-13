@@ -34,11 +34,11 @@ WebElement txtConfirmPassword;
 @FindBy(xpath="//input[@name='agree']") 
 WebElement chkdPolicy;
 
-//@FindBy(xpath="//button[normalize-space()='Continue']") 
-//WebElement btnContinue;
-
-@FindBy(xpath="//input[@value='Continue']") 
+@FindBy(xpath="//button[normalize-space()='Continue']") 
 WebElement btnContinue;
+
+//@FindBy(xpath="//input[@value='Continue']") 
+//WebElement btnContinue;
 
 @FindBy(xpath = "//h1[normalize-space()='Your Account Has Been Created!']")
 WebElement msgConfirmation;
